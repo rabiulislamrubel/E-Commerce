@@ -1,0 +1,27 @@
+.logo-img img {
+  height: 80px;
+}
+.logo-img {
+  text-align: center;
+}
+.header {
+  margin: 20px 0;
+}
+nav ul {
+  display: flex;
+  background-color: black;
+  padding: 0 40px;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 15px 25px;
+}
+nav ul li a:hover {
+  background-color: lightgray;
+  color: black;
+}
